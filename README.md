@@ -1,6 +1,6 @@
 👋 Hi! I am **Ce**e, **the** **ma**ster **co**der!
 
-Well, that is a lie, sadly I am not. But!!! I aspire to become one, whatever it takes!  
+Well, that is a lie, sadly I am not a master coder. But!!! I aspire to become one, whatever it takes!  
 
 ## What I am learning right now:
 - 🐍 Python
